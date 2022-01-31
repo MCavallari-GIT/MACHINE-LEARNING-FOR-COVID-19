@@ -4,3 +4,6 @@ Il lavoro da me svolto durante il periodo tirocinio riguarda l’ambito dell’a
 # CODE EXPLANATION
 Nel notebook "Miss_Data_imputation" viene effetuata l'imputazione di valori mancanti tramite Miass forest. Nel notebook ALTAIR_VARIANCES vengon visualizzati i risultati. Nel notebook MRMR&BORUTA è stata applicata feature selection sulle variabili del dataset. La feature selection consiste nell'applicare la selezione tramite Boruta, MRMR, l'intersezione delle due e l'unione delle due. Come ultimo passo nel notebook "Autoencoider" è stato creato un autoencoder per ogni dataset generato dalle varie feature selection. I dati compressi generati dalla parte di encoder dell'autoencoder sono stati poi usati per allenare una Neural Network e i risultati sono stati poi conforntati con quelli provenienti dalle stessa NN MA con i dati originali (quindi non compressi). 
 
+# MORE INFO
+Per ulteriori informazioni lascio in questa repo il lavoro della mia tesi triennale che discute in modo più approfondito il lavoro trattato.
+
